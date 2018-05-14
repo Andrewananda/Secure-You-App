@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "624523582565",
+    "firebase_url": "https://you-fddaa.firebaseio.com",
+    "project_id": "you-fddaa",
+    "storage_bucket": "you-fddaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624523582565:android:5c26b63013c6b387",
+        "android_client_info": {
+          "package_name": "com.example.andrew.secureyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624523582565-82bn0vfhc7q8tvj2l0jn8f62s54ivlh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8o1vNYDzKuC4IlK2ReqhCwh2gniXnIo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

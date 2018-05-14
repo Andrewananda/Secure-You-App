@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/joinCircle"
+            android:title="Call"
+            android:icon="@drawable/ic_phone_black_24dp"/>
+
+        <item
+            android:id="@+id/myCircle"
+            android:title="My Circle"
+            android:icon="@drawable/ic_person_black_24dp"/>
+
+        <item
+            android:id="@+id/joinedCircle"
+            android:title="Joined Circle"
+            android:icon="@drawable/ic_people_black_24dp"/>
+
+        <item
+            android:id="@+id/inviteMembers"
+            android:title="Invite Members"
+            android:icon="@drawable/ic_group_add_black_24dp"/>
+
+        <item
+            android:id="@+id/shareloc"
+            android:title="Share Location"
+            android:icon="@drawable/ic_share_black_24dp"/>
+
+        <item
+            android:id="@+id/signOut"
+            android:title="Sign Out"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"/>
+
+
+
+    </group>
+
+
+</menu>
